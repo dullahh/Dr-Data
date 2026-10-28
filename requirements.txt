@@ -1,0 +1,10 @@
+yfinance
+fredapi
+requests
+pandas
+pgmpy
+networkx
+matplotlib
+scipy
+dotenv
+vaderSentiment
