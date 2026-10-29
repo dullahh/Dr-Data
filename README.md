@@ -63,7 +63,7 @@ The default Linear Gaussian Bayesian Network models the relationships between
 | [yfinance](https://github.com/ranaroussi/yfinance) | Access to Yahoo Finance price and options data |
 | [FRED](https://fred.stlouisfed.org/) | US Treasury yield series |
 | [Finnhub](https://finnhub.io/docs/api) | Company news |
-| [vaderSentiment] (https://vadersentiment.readthedocs.io/en/latest/) | Headline sentiment scoring |
+| [vaderSentiment](https://vadersentiment.readthedocs.io/en/latest/) | Headline sentiment scoring |
 
 pgmpy provides the parameter-estimation and inference algorithms.
 My work focuses on integrating the data sources, constructing the
